@@ -63,6 +63,7 @@
   width: 1px;
   height: 30px;
   background: var(--color-grey);
+  border: 1px solid red;
 }
 
 .app__navbar-smallscreen {
